@@ -1,5 +1,3 @@
-# Project-modulo5-EBAC
-Contém uma atividade de programação em Python, que consiste em uma calculadora básica. 
 iniciar = input('Deseja iniciar a calculadora? (1-SIM, 2-NĀO):')
 if iniciar == '1':
   print('Inicie suas operações e cálculos matemáticos')
@@ -48,4 +46,5 @@ else:
   print('Escreva uma opção válida')
 
 print('Obrigado por utilizar a calculadora!')
+
 
